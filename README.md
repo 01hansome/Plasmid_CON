@@ -1,8 +1,5 @@
-# Plasmid_M
-Plasmid_M
-
-
-Plasmid_M  is a shiny based software tool that can be used to calculate the copies of vector for real time PCR.
+# Plasmid_CON
+Plasmid_CON  is a shiny based software tool that can be used to calculate the copies of vector for real time PCR.
 
 # Installation
 
